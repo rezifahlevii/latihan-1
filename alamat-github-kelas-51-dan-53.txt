@@ -2,5 +2,4 @@ Silakan tulis alamat (url) github anda dibawah:
 
 Kelas 5.1 :
 
-Kelas 5.3 :
-https://github.com/Mjon08/latihan-1/blob/main/alamat-github-kelas-51-dan-53.txt
+Kelas 5.3 : https://github.com/Mjon08/latihan-1/blob/main/alamat-github-kelas-51-dan-53.txt
