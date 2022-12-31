@@ -1,6 +1,0 @@
-Silabus Rekayasa Perangkat Lunak Kelas 5:
-- Git dan Github
-- Framework Bootstrap
-- Framework Codeigniter
-- DBMS MySql
-- Webiste Biasa
